@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aditya Thaokor
+# Hi there 👋, I'm Aditya Thakor
 
 ### 🚀 Frontend Web Developer
 
